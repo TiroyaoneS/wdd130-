@@ -24,39 +24,3 @@ img {
 p {
     padding: 10px;
 }
-
-main {
-    max-width: 800px;
-    /* Limit the main width */
-    margin: 0 auto;
-    /* Center it for now (optional) */
-}
-
-main img {
-    width: 150px;
-    height: auto;
-}
-
-aside {
-    width: 300px;
-    margin: 20px auto;
-    border: 1px solid #333;
-    padding: 15px;
-    background-color: #f4f4f4;
-    color: #222;
-}
-
-aside img {
-    width: 200px;
-    height: auto;
-}
-
-p {
-    padding: 0;
-}
-
-footer {
-    margin-top: 30px;
-    border-top: 2px solid #333;
-    text-align: center;
-}
